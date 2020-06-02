@@ -1,5 +1,5 @@
 # Deep-Attentive-Interest-Collaborative-Filtering-for-Large-scale-Recommender-Systems
-<<<<<<< HEAD
+
 # DAICF
 TensorFlow Implementation of Deep Attentive Interest Collaborative Filtering Model for Large-scale Recommender systems
 
