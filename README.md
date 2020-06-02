@@ -20,8 +20,9 @@ python DAICF.py --path Data/ --dataset ml-1m --epochs 50 --verbose 1 --batch_cho
 Output of **DAICF**:  
 
 **figure**
-![](figure/att_HR.png)  
 ...  
+![](figure/att_HR.png)  
+
 ![](figure/att_NDCG.png)
 
 **out**
