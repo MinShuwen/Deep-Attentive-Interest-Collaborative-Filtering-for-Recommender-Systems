@@ -18,11 +18,16 @@ Run **DAICF** :
 python DAICF.py --path Data/ --dataset ml-1m --epochs 50 --verbose 1 --batch_choice fixed:256 --embed_size 16 --layers [64,32,16] --regs [1e-06,1e-06] --reg_W [0.1,0.1,0.1,0.1] --alpha 0.5 --train_loss 1 --num_neg 4 --lr 0.01 --batch_norm 1 --pretrain 0
 ```
 Output of **DAICF**:  
-  
+**figure**
 ![](figure/att_HR.png)  
 ...  
 ![](figure/att_NDCG.png)
 
+**out**
+- .out 
+
+**result**
+- .csv
 
 ## Datasets
 We provide four processed datasets:  Pinterest (pinterest-20), Amazom_office, digital_music, and MovieLens 1 Million (ml-1m).
