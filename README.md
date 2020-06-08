@@ -1,7 +1,7 @@
-# Deep-Attentive-Interest-Collaborative-Filtering-for-Large-scale-Recommender-Systems
+# Deep-Attentive-Interest-Collaborative-Filtering-for-Recommender-Systems
 
 # DAICF
-TensorFlow Implementation of Deep Attentive Interest Collaborative Filtering Model for Large-scale Recommender systems
+TensorFlow Implementation of Deep Attentive Interest Collaborative Filtering Model for Recommender systems
 
 
 deep collaborative filtering models: **DAICF** . To target the models for implicit feedback and ranking task, we optimize them using log loss with negative sampling.
@@ -49,5 +49,5 @@ We provide four processed datasets:  Pinterest (pinterest-20), Amazom_office, di
 
 Update Date: June 02, 2020
 =======
-# Deep-Attentive-Interest-Collaborative-Filtering-for-Large-scale-Recommender-Systems
+# Deep-Attentive-Interest-Collaborative-Filtering-for-Recommender-Systems
 >>>>>>> 31ba0b1ca93edcea5dcc1765fe3ab499c4c8d50f
